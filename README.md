@@ -1,1 +1,1 @@
-# JSP-project
+# Java Swing
